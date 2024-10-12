@@ -7,7 +7,7 @@ Boston, Massachusetts, United States
 ---
 
 ### 🌐 Contact Information
-- **Email**: [danielshaheen75@gmail.com](mailto:danielshaheen75@gmail.com)
+- **Email**: [dshaheen@salesforce.com](mailto:dshaheen@salesforce.com)
 - **LinkedIn**: [linkedin.com/in/nshahin](https://www.linkedin.com/in/nshahin)
 - **Blog**: [dnscloud.blogspot.com](http://dnscloud.blogspot.com/)
 
